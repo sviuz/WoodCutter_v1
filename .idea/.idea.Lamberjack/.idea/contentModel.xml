@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kuibi\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kuibi\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Lamberjack.1186545681.00" t="ExcludeRecursive" />
+    <e p="C:\Users\kuibi\OneDrive\Документы\UnityGames\Lamberjack" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AntonScript.cs" t="Include" />
+          <e p="Menus" t="Include">
+            <e p="Exit.cs" t="Include" />
+            <e p="MainMenu.cs" t="Include" />
+            <e p="SoundScript.cs" t="Include" />
+          </e>
+          <e p="ScoreScript.cs" t="Include" />
+          <e p="StopGame" t="Include">
+            <e p="TryAgainButton.cs" t="Include" />
+          </e>
+          <e p="StopGameScript.cs" t="Include" />
+          <e p="TreeCreation.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Lamberjack.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
